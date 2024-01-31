@@ -1,8 +1,19 @@
-# React + Vite
+# 2Movies Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2Movies is a React-based web application that fetches movies from an external API and displays them in an organized manner. This project utilizes the React framework along with the Context API to manage and share global state across components.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Fetches movies from an external API.
+- Utilizes the React Context API for state management.
+- Displays a list of movies with relevant details.
+- Allows users to interact with the movie data.
